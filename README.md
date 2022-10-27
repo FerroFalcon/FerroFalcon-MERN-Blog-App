@@ -18,7 +18,7 @@ I'm Jaideep Ghungharwal aka ferrofalcon, a web development enthusiast and a pass
 - Interactive UI with active buttons and elements
 
 ## Screenshots
-![[App Form Screenshot](https://user-images.githubusercontent.com/93059540/198391239-aedff803-7ea5-4c52-91e4-c049f3b40ce1.jpeg)
+![App Form Screenshot](https://user-images.githubusercontent.com/93059540/198391239-aedff803-7ea5-4c52-91e4-c049f3b40ce1.jpeg)
 
 ![App Blogs Screenshot](https://user-images.githubusercontent.com/93059540/198391021-0cb24239-4122-45d2-8f80-96552688fde2.jpeg)
 
